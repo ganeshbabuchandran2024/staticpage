@@ -1,0 +1,17 @@
+.flex-container{
+    display: flex;
+    background-color: #77cdd8e5;
+    justify-content: space-around;
+}
+.button{
+    background-color: black;
+    border-radius: 35px;
+    width: 200px;
+    height: 45px;
+    margin-top: 25px;
+    color: white;
+}
+hr{
+    width: 90%;
+    background-color: rgb(247, 240, 240);
+}
