@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Mukta:wght@200;300;400;500;600;700;800&family=Outfit&family=Poppins:wght@100&display=swap');
+
+
+.title{
+display: flex;
+justify-content: flex-start;
+align-items: flex-start;
+
+}
+.navbar-list{
+    list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+    background-color: rgb(3, 3, 39);
+    }
+
+.li{
+    list-style-type: none;
+    padding: 1px;
+            }
+
+    .dropdown-toggle{
+      cursor: pointer;
+      background-color: rgb(3, 3, 39);
+      padding: 5px;
+      margin-right: 25px;
+      color: aliceblue;
+      border-radius: 5px;
+            font-family: "Poppins", serif;
+      font-weight: bolder;
+      font-style: normal;
+      font-size: 15px;
+                }
+                .dropdown-toggle1{
+                  cursor: pointer;
+      background-color: rgb(3, 3, 39);
+      color: aliceblue;
+      padding: 8px;
+font-family: "Poppins", serif;
+      font-weight: bolder;
+      font-style: normal;
+                  
+                            }
+
+                            .title{
+                              color: aliceblue;
+                              
+                            }
+                            .arrow{
+                              padding-left: 5px;
+                            }

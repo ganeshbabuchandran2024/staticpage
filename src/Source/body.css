@@ -1,7 +1,13 @@
 .main{
     display: flex;
-    background-color: #ffffffe5;
+    background-image: url(Third.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+
 }
+
 .wrapper{
     display: flex;
     background-color: #ffffffe5;
@@ -13,6 +19,8 @@
     display: flex;
     flex-direction: column;
     width: 60%;
+    color:rgb(8, 7, 63);
+    font-size: 25px;
 
 }
 .main-wrapper{
@@ -20,3 +28,4 @@
     width: 60%;
     justify-content: space-evenly;
 }
+

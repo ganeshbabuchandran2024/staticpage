@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+background-color: rgb(225, 219, 247);
+flex-wrap: wrap;
+gap: 10px;
+}
+
+    .item {
+        display: flex;
+        flex-wrap: wrap;
+        background-color: #f0f0f0;
+        margin:10px;
+        width: 450px;
+        border-radius: 20px;
+                height: 280px;
+        justify-content: center;
+        align-items: center;
+      }
+  
+
+      .paragraph{
+        color: rgb(8, 3, 37);
+        margin-top: -20px;
+        font-family: "Alegreya";
+        font-size: 20px;
+
+      }
